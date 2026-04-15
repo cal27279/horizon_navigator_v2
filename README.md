@@ -1,6 +1,6 @@
 # 🧭 Horizon Navigator V2 // Autonomous AI Governance Agent
 
-![Horizon Navigator V2 Architecture](horizon_poster.png)
+![Horizon Navigator V2 ](Gemini_Generated_Image_bkhmw9bkhmw9bkhm.png)
 
 > **Static risk logs are dead. The future of enterprise project management is self-healing.**
 
