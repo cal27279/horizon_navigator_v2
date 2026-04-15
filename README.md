@@ -17,6 +17,8 @@ Built for high-stakes enterprise environments, this project utilizes a secure, h
 * **🛡️ Privacy-First Design:** A strict "Security-by-Design" architecture ensures **PII Redaction** and credential isolation, keeping sensitive project data secure before it ever hits the model.
 * **🖥️ Command Center UI:** A custom **Streamlit** "Black Edition" dashboard featuring stateful session management, real-time infrastructure telemetry, and aggressive, high-contrast styling.
 
+![Horizon Navigator V2 - Architecture ](Gemini_Generated_Image_bhcp6dbhcp6dbhcp.png)
+
 ## 🚀 Key Innovations
 * **The Self-Healing Risk Register:** Moves beyond static spreadsheets. The system generates data-backed, evolving mitigation strategies that adapt to the context of the conversation.
 * **Semantic Risk Mapping:** Dialogue is programmatically categorized into professional RBS pillars (e.g., *Technical Architecture*, *Legal Compliance*, *Resource Allocation*).
